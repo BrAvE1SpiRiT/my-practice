@@ -5,9 +5,11 @@ const AuthLayout = ({ children }: { children: React.ReactNode }) => {
     <div 
 			className="flex items-center justify-center min-h-screen"
 			style={{
-				background: 'linear-gradient(-45deg, #8f65ec, #6e6cf5, #00b8f8)',
+				background: 'linear-gradient(-45deg, #C3EBFA, #CFCEFF, #FAE27C)',
+				// background: 'linear-gradient(-45deg, #EDF9FD, #F1F0FF, #FEFCE8)',
+				// background: 'linear-gradient(-45deg, #8f65ec, #6e6cf5, #00b8f8)',
 				backgroundSize: '400% 400%',
-				animation: 'gradient 5s ease infinite'
+				animation: 'gradient 10s ease infinite'
 			}}
 		>
       <div 
