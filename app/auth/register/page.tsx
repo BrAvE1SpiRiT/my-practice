@@ -1,5 +1,5 @@
 'use client'
-import InputBox from '@/components/ui/inputBox';
+import InputBox from '@/components/inputBox';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
